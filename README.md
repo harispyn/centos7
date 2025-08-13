@@ -1,5 +1,5 @@
 Cara Penggunaan:
-Simpan script sebagai install-openvpn.sh
+Simpan script sebagai vpn.sh
 Berikan izin eksekusi:
 bash
 
@@ -8,7 +8,7 @@ Line Wrapping
 Collapse
 Copy
 1
-chmod +x install-openvpn.sh
+chmod +x install-vpn.sh
 Jalankan sebagai root:
 bash
 
@@ -17,7 +17,7 @@ Line Wrapping
 Collapse
 Copy
 1
-sudo ./install-openvpn.sh
+sudo ./install-vpn.sh
 Fitur Script:
 Otomatis mendeteksi IP publik server
 Menggunakan enkripsi AES-256-CBC dan SHA256
